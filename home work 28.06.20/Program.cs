@@ -49,7 +49,7 @@ namespace _28._06._20_Hw
             // Home Work answers:
             // * the command in IL is "newobj"
             // * yes because its static function which we know that has to be the letter 's' next to it 
-            //* call , callvirt
+            //* the commands in IL are :1.call  {cw} , 2.callvirt{ TellMeHowManyPlayers()}
             //* I think thats happen because cw is simpler function that dosen't need to called in a specefied way 
             //  and "TellMeHowManyPlayers()" probbly needed to be call in a more specefied way. 
                                             
